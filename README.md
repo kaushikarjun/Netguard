@@ -53,9 +53,9 @@ intrusion detection dataset.
    and place them in the project root (same folder as the code file).
 4. Run the notebook/script:
    ```bash
-   python KING_NetGuard.py
+   python Arjunkaushik_NetGuard.py
    ```
-   or open `KING_NetGuard.ipynb` in Jupyter and run all cells.
+   or open `Arjunkaushik_NetGuard.ipynb` in Jupyter and run all cells.
 5. Trained models are saved as `.joblib` files in the project root:
    `random_forest_ids.joblib`, `xgboost_ids.joblib`, `scaler.joblib`,
    `feature_names.joblib`.
