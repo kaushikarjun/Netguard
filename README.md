@@ -79,9 +79,5 @@ training, which is by design in NSL-KDD.
 
 ## Key Information
 
-- **Author:** KING
+- **Author:** Arjun Kaushik
 - **Institution:** University School of Automation and Robotics, GGSIPU Delhi
-- **Related project:** [Guardian](.) — AI misinformation and deepfake detection system
-- **Future work:** multi-class attack-type classification, threshold tuning,
-  SMOTE-based resampling, evaluation on CICIDS2018 for greater attack
-  diversity, and a Streamlit dashboard for live demonstration.
